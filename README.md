@@ -24,8 +24,8 @@ MaiMLファイル（`.maiml`）をブラウザにドラッグ＆ドロップす�
 
 1. `HTML-MaiMLViewer.html` をダウンロード  
 2. ブラウザ（Chrome / Safari / Edge など）で開く  
-3. `.maiml` ファイルをドラッグ＆ドロップ  
-4. 外部ファイルをアップロードして可視化
+3. `.maiml`もしくは`.maiml.zip` ファイルをアップロード  
+4. 外部ファイルを可視化
 5. content要素（２次元）をグラフ表示
 6. material/condition/resultのコンテンツの要約を表示
 
