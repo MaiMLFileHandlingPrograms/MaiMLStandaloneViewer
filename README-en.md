@@ -23,7 +23,7 @@ Simply open the HTML file and upload a `.maiml`/`.maiml.zip` file to explore its
 1. Download `HTML-MaiMLViewer.html`  
 2. Open it in your web browser (Chrome, Safari, Edge, etc.)  
 3. Upload a `.maiml`/`.maiml.zip` file  
-4. Upload external files for visualization  
+4. Visualize External Files  
 5. Visualize 2D content elements as graphs
 6. Display summaries of the material/condition/result contents
 
