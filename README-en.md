@@ -2,7 +2,7 @@
 
 A **standalone HTML viewer for MaiML files** — visualize MaiML data directly in your browser with **no server or installation required**.
 
-Simply open the HTML file and drag & drop a `.maiml` file to explore its structure and contents interactively.
+Simply open the HTML file and upload a `.maiml`/`.maiml.zip` file to explore its structure and contents interactively.
 
 ---
 
@@ -22,12 +22,12 @@ Simply open the HTML file and drag & drop a `.maiml` file to explore its structu
 
 1. Download `HTML-MaiMLViewer.html`  
 2. Open it in your web browser (Chrome, Safari, Edge, etc.)  
-3. Drag & drop a `.maiml` file  
+3. Upload a `.maiml`/`.maiml.zip` file  
 4. Upload external files for visualization  
 5. Visualize 2D content elements as graphs
 6. Display summaries of the material/condition/result contents
 
-> 💡 No internet connection or server is required.
+> 💡 No server is required.
 
 ---
 
