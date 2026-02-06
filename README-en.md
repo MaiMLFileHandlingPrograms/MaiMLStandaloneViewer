@@ -9,7 +9,7 @@ Simply open the HTML file and upload a `.maiml`/`.maiml.zip` file to explore its
 ## 🚀 Features
 
 - **Visualize MaiML files** (`.maiml`) directly in your browser  
-- **Single HTML file** — works completely offline  
+- **Single HTML file** 
 - **Petri net visualization** support  
 - View **template and instance sections** of MaiML data  
 - Supports **external data visualization**  
