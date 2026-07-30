@@ -1,5 +1,15 @@
 # MaiMLStandaloneViewer
 
+> [!IMPORTANT]
+> 2026/7/30
+> このリポジトリは移行しました。
+>
+> 最新版はこちらをご利用ください。
+> 
+> https://github.com/MaiML-Tools/MaiMLStandaloneViewer
+
+
+</br></br></br>
 **MaiMLファイルをブラウザで可視化できる単一HTML Viewer**  
 サーバー不要・インストール不要で、1つのHTMLファイルだけで動作します。
 
